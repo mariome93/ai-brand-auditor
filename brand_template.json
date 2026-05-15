@@ -1,0 +1,28 @@
+{
+  "brand_name": "TuEmpresa",
+  "brand_description": "Describe aquí qué hace tu empresa y a quién sirve.",
+  "tone_of_voice": {
+    "desired": ["profesional", "cercano", "inspirador"],
+    "avoid":   ["jerga", "lenguaje pasivo", "exageraciones"]
+  },
+  "writing_rules": [
+    {
+      "rule": "Oraciones cortas",
+      "detail": "Máximo 25 palabras por oración."
+    },
+    {
+      "rule": "Voz activa",
+      "detail": "Usar voz activa en >80% de las oraciones."
+    },
+    {
+      "rule": "Sin superlativas sin evidencia",
+      "detail": "No usar 'el mejor', 'increíble' sin datos que lo respalden."
+    }
+  ],
+  "forbidden_words": ["básicamente", "literalmente", "obviamente"],
+  "required_elements": {
+    "for_blog_posts": ["titular impactante", "dato estadístico", "CTA"],
+    "for_social":     ["hook", "hashtags", "CTA"]
+  },
+  "audience": "Describe a tu audiencia objetivo aquí."
+}
